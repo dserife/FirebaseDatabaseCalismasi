@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1031148752086",
+    "firebase_url": "https://fir-calismasi-43a3e.firebaseio.com",
+    "project_id": "fir-calismasi-43a3e",
+    "storage_bucket": "fir-calismasi-43a3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031148752086:android:a4355984df269272",
+        "android_client_info": {
+          "package_name": "com.example.firebasedatabasecalismasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031148752086-011mp82cgn2e2ln7drsolg5sddjd76vn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasedatabasecalismasi",
+            "certificate_hash": "ea5ba40828deb3046d9a6ca71b92940da03a2183"
+          }
+        },
+        {
+          "client_id": "1031148752086-8ab0dtj4qfimjhbojc431dk7095nukt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAfq6EQvWodKgsALHKF9ISQpaQcEDHDZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031148752086-8ab0dtj4qfimjhbojc431dk7095nukt6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
